@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Charulatha</string>
+    <string name="title">Android Developer</string>
+    <string name="phone_number">+91 8903512375</string>
+    <string name="email_id">charu@gmail.com</string>
+    <string name="linkedin_url">www.linkedin.com/in/charu</string>
+</resources>
